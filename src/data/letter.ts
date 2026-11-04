@@ -19,42 +19,44 @@ export const letter: LetterData = {
       id: 1,
       greeting: "Sayang,",
       paragraphs: [
-        "Aku mau kamu tahu kalau akhir-akhir ini aku lagi ada di titik yang cukup berat dalam hidup aku. Jujur, aku ngerasa capek banget. Ada banyak hal yang lagi aku pikirin, banyak tekanan yang harus aku hadapi, dan terkadang semuanya terasa terlalu berat sampai aku sendiri bingung harus mulai dari mana untuk menyelesaikannya.",
-        "Aku tahu mungkin tanpa sadar sikap aku berubah. Mungkin aku jadi lebih diam, lebih sulit diajak bicara, kurang menunjukkan perhatian, atau bahkan terkadang terlihat seperti orang yang nggak punya energi untuk apa-apa. Tapi aku mau kamu tahu satu hal, aku sama sekali nggak bermaksud bikin kamu sedih. Aku juga nggak pernah punya niat untuk membuat kamu merasa nggak dicintai, nggak dihargai, atau merasa kalau kehadiran kamu sudah nggak sepenting dulu buat aku.",
+        "Aku cuma mau cerita sedikit tentang apa yang akhir-akhir ini lagi aku rasain. Jujur, belakangan ini aku lagi capek banget. Banyak hal yang ada di pikiran aku, banyak yang harus aku urusin, dan kadang semuanya datang barengan sampai aku sendiri bingung harus ngadepin yang mana dulu.",
+        "Aku sadar mungkin akhir-akhir ini aku jadi agak beda. Mungkin aku lebih sering diam, jarang cerita, kurang perhatian, atau kadang kelihatan nggak semangat buat ngapa-ngapain. Aku tahu mungkin kamu juga ngerasain perubahan itu. Tapi aku mau kamu tahu kalau semua itu bukan karena kamu, apalagi karena aku udah nggak sayang sama kamu.",
       ],
     },
     {
       id: 2,
       paragraphs: [
-        "Aku cuma sedang berusaha bertahan dengan semua hal yang sedang terjadi di hidup aku sekarang. Ada kalanya aku terlalu sibuk melawan isi kepala sendiri sampai aku lupa kalau ada orang yang juga perlu aku jaga perasaannya. Dan kalau selama ini kamu ikut merasakan dampak dari keadaan aku, aku benar-benar minta maaf.",
-        "Bukan karena aku bosan sama kamu, bukan karena perasaan aku berubah, dan bukan karena aku sudah nggak ingin mengusahakan hubungan ini. Aku hanya sedang kehabisan energi untuk menghadapi banyak hal sekaligus. Bahkan terkadang, untuk terlihat baik-baik saja pun rasanya sulit.",
+        "Aku lagi banyak pikiran dan terkadang aku sendiri nggak tahu harus gimana. Ada hari-hari di mana aku cuma pengen diam, nggak mikirin apa-apa, dan punya waktu buat diri sendiri. Bukan karena aku nggak mau ngobrol sama kamu, tapi memang terkadang kepala aku lagi terlalu penuh buat mikirin hal lain.",
+        "Maaf kalau tanpa sadar aku jadi bikin kamu ngerasa kurang diperhatikan, ngerasa aku menjauh, atau bahkan bikin kamu bertanya-tanya apa ada yang salah sama hubungan kita. Aku nggak pernah punya niat buat bikin kamu ngerasain hal seperti itu.",
       ],
     },
     {
       id: 3,
       paragraphs: [
-        "Aku nggak berharap kamu selalu mengerti semua yang sedang aku rasakan, karena aku tahu kamu juga punya perasaan, punya hari-hari yang berat, dan punya hal-hal yang mungkin juga ingin kamu ceritakan. Aku cuma berharap kamu nggak salah mengartikan keadaan aku sebagai kurangnya rasa sayang aku ke kamu.",
-        "Aku masih orang yang sama, yang sayang sama kamu, yang masih ingin punya banyak cerita dan waktu bersama kamu. Hanya saja, sekarang aku sedang berada di fase ketika aku sendiri pun belum sepenuhnya tahu bagaimana caranya menenangkan diri sendiri.",
+        "Aku cuma pengen kamu ngerti kalau sekarang aku lagi berusaha ngadepin banyak hal. Aku juga nggak selalu bisa cerita semuanya, bukan karena aku nggak percaya sama kamu, tapi terkadang aku sendiri belum ngerti apa yang sebenarnya lagi aku rasain. Bahkan buat menjelaskan keadaan aku sendiri aja kadang susah.",
+        "Aku nggak mau kamu mikir kalau aku udah bosan atau perasaan aku berubah. Sama sekali nggak. Aku masih sayang sama kamu, masih pengen sama kamu, dan masih mau jalanin hubungan ini. Cuma mungkin sekarang aku lagi nggak sebaik biasanya dalam nunjukin itu semua.",
       ],
     },
     {
       id: 4,
       paragraphs: [
-        "Kalau boleh jujur, aku juga ingin dimengerti tanpa harus selalu menjelaskan kenapa aku sedang nggak baik-baik saja. Aku ingin punya ruang untuk merasa lelah, tanpa membuat orang yang aku sayang merasa kalau dirinya adalah alasan dari kelelahan itu.",
-        "Aku nggak mau menjadikan tekanan hidup aku sebagai alasan untuk mengabaikan perasaan kamu. Aku akan tetap berusaha memperbaiki apa yang perlu diperbaiki. Tapi aku juga berharap kamu bisa sedikit bersabar dengan aku selama aku mencoba melewati fase ini.",
+        "Aku juga ngerti kalau kamu punya perasaan. Kamu juga butuh diperhatiin, ditemenin, dan disayang. Aku nggak mau terus-terusan menjadikan keadaan aku sebagai alasan kalau aku jadi kurang baik ke kamu. Aku bakal tetap berusaha buat memperbaiki itu, walaupun mungkin nggak bisa langsung berubah dalam waktu singkat.",
+        "Tapi aku juga berharap kamu bisa sedikit sabar sama aku. Aku pengen bisa ngelewatin masa-masa ini tanpa harus merasa kalau aku kehilangan orang yang aku sayang cuma karena aku lagi nggak bisa jadi diri aku yang biasanya.",
+        "Kadang aku cuma pengen dimengerti tanpa harus menjelaskan semuanya. Pengen punya waktu buat istirahat dari semua yang lagi ada di kepala aku, tanpa bikin kamu merasa kalau kamu adalah bagian dari masalah yang sedang aku hadapi. Karena kamu bukan masalahnya, sayang.",
       ],
     },
     {
       id: 5,
       paragraphs: [],
       emphasis:
-        "I love you. Even on the days when I don't know how to show it properly, even when I'm tired, even when my mind is somewhere else, my feelings for you are still here.",
+        "I love you. Meskipun akhir-akhir ini aku mungkin jarang bilang, jarang nunjukin, atau nggak selalu bisa ngasih perhatian seperti biasanya, bukan berarti rasa sayang aku berkurang.",
     },
     {
       id: 6,
       paragraphs: [
-        "Terima kasih karena masih ada. Maaf kalau akhir-akhir ini aku belum bisa menjadi versi terbaik dari diri aku, termasuk sebagai pasangan kamu. Aku cuma sedang berusaha menemukan diri aku lagi di tengah semua hal yang terasa berantakan.",
-        "Aku sayang kamu, dan aku nggak mau kamu meragukan itu hanya karena sekarang aku sedang tidak baik-baik saja.",
+        "Terima kasih karena masih ada dan masih mau ngerti aku. Maaf kalau akhir-akhir ini aku agak sulit dimengerti, maaf kalau aku belum bisa jadi pasangan yang baik seperti biasanya.",
+        "Aku cuma lagi capek sama banyak hal dan masih berusaha buat ngebenerin semuanya satu per satu. Tapi satu hal yang perlu kamu tahu, aku nggak pernah punya niat buat nyerah sama hubungan kita.",
+        "Aku sayang kamu, dan aku masih mau kamu ada di hidup aku. -zena",
       ],
     },
   ],
